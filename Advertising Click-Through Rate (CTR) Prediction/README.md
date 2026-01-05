@@ -16,4 +16,4 @@ The dataset contains 1000 entries with 10 features. Key findings from EDA:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone []()
+   git clone [https://github.com/SamirGamal10/Data-analysis/tree/main/Advertising%20Click-Through%20Rate%20(CTR)%20Prediction](https://github.com/SamirGamal10/Data-analysis/tree/main/Advertising%20Click-Through%20Rate%20(CTR)%20Prediction)
